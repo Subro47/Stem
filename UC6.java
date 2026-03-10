@@ -1,4 +1,4 @@
-public class OOPSBanner {
+public class UC6 {
 
     static String[] getO() {
         return new String[]{
